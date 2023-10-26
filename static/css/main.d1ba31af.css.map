@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.d1ba31af.css","mappings":"AAIA,OACE,eACF","sources":["App.css"],"sourcesContent":[".App {\n  overflow: hidden;\n}\n\n* {\n  overflow: hidden;\n}"],"names":[],"sourceRoot":""}
