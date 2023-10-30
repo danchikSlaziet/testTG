@@ -1,2 +1,0 @@
-body{height:100vh;margin:0;width:100vw}#root,.App{height:100%;width:100%}.App{overflow:hidden;position:relative}.App__video{left:0;object-fit:cover;position:absolute;right:0;top:0;z-index:100}.App__video,.App__video-container{height:480px;object-position:center center;width:640px}.App__video-container{left:50%;object-fit:contain;position:relative;-webkit-transform:translateX(-50%);transform:translateX(-50%)}video::-webkit-media-controls,video::-webkit-media-controls-enclosure{display:none}
-/*# sourceMappingURL=main.29c0f340.css.map*/
